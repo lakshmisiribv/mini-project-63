@@ -1,0 +1,4 @@
+x=[10,8,9,7,6]
+print(x)
+n=arr.array(i,x)
+key=int(input("enter the number"))
